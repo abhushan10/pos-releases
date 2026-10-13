@@ -1,1 +1,3 @@
-# pos-releases
+# Distribution Storage
+
+Binary package distribution host.
